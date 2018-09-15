@@ -1,3 +1,4 @@
+/* V 2.0 */
 /* .navbarx {
     overflow: hidden;
     background-color: #ffffff;
@@ -224,3 +225,52 @@ body {
 .tableBackground {
     background: none;
 }
+
+.pSmall {
+    font-size: 8px;
+}
+
+/*************************Responsive Design*******************/
+/* @media (max-width: 480px) {                                                                                                                                                                                                                                                                                                     ;///////////////////////////////////////'------------------------=.////'}
+    * .pageHeaders {
+        color: #40adb1;
+        font-size: 12px;
+        line-height: 25px;
+        height: 25px;
+    }
+
+    h2 {
+        font-size: 10px;
+    }
+
+    .dropbtn {
+        font-size: 10px;
+    }
+
+    .centerTextAlignment {
+        font-size: 10px;
+    }
+} */
+
+@media (max-width: 480px) {
+    * .pageHeaders {
+        color: #40adb1;
+        font-size: 12px;
+        line-height: 25px;
+        height: 25px;
+    }
+
+    h2 {
+        font-size: 10px;
+    }
+
+    .dropbtn {
+        font-size: 10px;
+    }
+
+    .centerTextAlignment {
+        font-size: 10px;
+    }
+  }
+  
+  .medStyle
